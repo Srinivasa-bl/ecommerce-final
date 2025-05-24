@@ -42,6 +42,9 @@ spring.datasource.url=jdbc:mysql://localhost:3306/vividhands_db
 spring.datasource.username=your_mysql_username  
 spring.datasource.password=your_mysql_password  
 spring.jpa.hibernate.ddl-auto=update
+
+create uploads/certificates folder in vividhands-bakend root folder to store the certificate of artisan
+
 Run Backend Server:
 Navigate to the backend folder and run:
 
